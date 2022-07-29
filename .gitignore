@@ -56,3 +56,5 @@ bin/
 /client_files/**/CMakeFiles/
 
 .idea
+
+/vcpkg-export-x64/
